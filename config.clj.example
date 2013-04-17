@@ -1,0 +1,4 @@
+{:app_consumer_key "abc",
+ :app_consumer_secret "abc",
+ :user_access_token "abc",
+ :user_access_token_secret "abc"}
