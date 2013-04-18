@@ -1,7 +1,11 @@
 # twitterlytics
 
-Help analyze your twitter followers - breakdown by who is following you back, and last tweet times.
-Mainly an app for me to play with Web development in Clojure
+Help analyze your twitter followers. 
+
+App helps breakdown your followers by who is following you back or not, and their last tweet times.  
+Helpful with spring cleaning for followers.
+
+Good chance to try out with Clojure - app written with Ring / Compojure / Hiccup and Twitter Boostrap.
 
 ## Usage
 
